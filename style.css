@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(50, 50, 50);
+    color:aliceblue;
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 300px;
+    font-size: 70px;
+    font-weight: 200;
+}
